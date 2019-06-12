@@ -18,13 +18,13 @@ h2 {
 }
 
 p {
-	font-size: 16px;
+	font-size: 20px;
 	color: #ffffff;
 font-family: 'Cinzel', serif;
 }
 
 #slogan {
-	font-size: 16px;
+	font-size: 20px;
 	color: #ffffff;
 font-family: 'Cinzel Decorative', serif;
 font-weight: 700;
@@ -33,7 +33,14 @@ font-size: 25px;
 }
 
 ul {
-	font-size: 16px;
+	font-size: 20px;
+	color: #ffffff;
+font-family: 'Cinzel', serif;
+text-align: center;
+}
+
+li {
+	font-size: 20px;
 	color: #ffffff;
 font-family: 'Cinzel', serif;
 text-align: center;
