@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cinzel&display=swap');
+
+body {
+	background-color: #000000;
+	text-align: center;
+}
+
+h1 {
+	color: #FF2E18;
+	font-family: 'Cinzel Decorative', serif;
+}
+
+h2 {
+	color: #FF2E18;
+	font-family: 'Cinzel', serif;
+
+}
+
+p {
+	font-size: 20px;
+	color: #ffffff;
+font-family: 'Cinzel', serif;
+}
+
+#slogan {
+	font-size: 20px;
+	color: #ffffff;
+font-family: 'Cinzel Decorative', serif;
+font-weight: 700;
+font-size: 25px; 
+
+}
+
+ul {
+	font-size: 20px;
+	color: #ffffff;
+font-family: 'Cinzel', serif;
+text-align: center;
+}
+
+li {
+	font-size: 20px;
+	color: #ffffff;
+font-family: 'Cinzel', serif;
+text-align: center;
+}
+
+header {
+	background-color: #FFED74;
+}
+nav {
+	background-color: #E8C66A;
+}
+aside {
+	background-color: #FFC675;
+}
+article {
+	background-color: #E89C6C
+}
+footer {
+	background-color: #FF957E;
+}
+div {background-color: #FFE2B8;
+}
+section {
+	background-color: #FFE2B8;
+}
